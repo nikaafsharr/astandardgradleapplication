@@ -3,7 +3,17 @@ public class Main {
 
         System.out.println("Good Morning, Universe!");
 
-        System.out.println("test");
+
+        for (int i=1; i<11; i++){
+            System.out.println(i);
+        }
+
+        int sum = 0;
+        for (int j=30;j<41;j++){
+            sum = sum+j;
+        }
+        System.out.println(sum);
+
 
     }
 

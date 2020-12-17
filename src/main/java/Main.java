@@ -13,8 +13,7 @@ public class Main {
             sum = sum+j;
         }
         System.out.println(sum);
-
-
+        
     }
 
 }
